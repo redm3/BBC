@@ -1,3 +1,4 @@
+ERC721A NFT project for Redacted which also serves as a liquid version of rlBTRFLY
 # BBC
 https://messari.io/governor/proposal/c7452139-aec5-410c-bae9-46f04d726ba7
 https://baby-butterfly-cartel-site-v01.vercel.app

@@ -18,3 +18,5 @@ AUTOMATION (https://app.gelato.network/)
 
 LIST OF NFT HOLDERS (OFF-CHAIN)
 https://docs.alchemy.com/docs/how-to-get-a-list-of-nft-holders-for-a-given-collection
+
+[File14 Studios & Redacted - Baby Butterfly Cartel Project Summary (1).pdf](https://github.com/redm3/BBC/files/11416236/File14.Studios.Redacted.-.Baby.Butterfly.Cartel.Project.Summary.1.pdf)

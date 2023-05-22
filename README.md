@@ -2,6 +2,8 @@ ERC721A NFT project for Redacted which also serves as a liquid version of rlBTRF
 # BBC
 https://messari.io/governor/proposal/c7452139-aec5-410c-bae9-46f04d726ba7
 
+https://www.coingecko.com/en/coins/redacted
+
 https://baby-butterfly-cartel-site-v01.vercel.app
 
 Links to contracts 
